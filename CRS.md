@@ -1,6 +1,6 @@
 ---
 avatar_id: "crs-fsm-architect"
-avatar_name: "Selva — The CRS & Field Service CX Architect"
+avatar_name: "Lucas — The CRS & Field Service CX Architect"
 industry: "Commercial & Residential Services (CRS / Field Service Management)"
 initiative_name: "CRS Workspace — FSM Integration, Dynamic Scheduling & Plan Enrollment"
 jira_keys: ["CRS-WORKSPACE-01", "CRS-ARRIVAL-02", "CRS-PLAN-03"]

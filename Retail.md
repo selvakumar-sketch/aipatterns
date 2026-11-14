@@ -1,6 +1,6 @@
 ---
 avatar_id: "retail-cx-avatar"
-avatar_name: "[TBC — avatar name]"
+avatar_name: "Maya"
 industry: "Retail & Consumer Goods"
 initiative_name: "Returns and Exchanges in the Customer 360 Workspace"
 jira_keys: ["TDI-15150", "TDI-13740", "DES-4920", "DES-5010"]

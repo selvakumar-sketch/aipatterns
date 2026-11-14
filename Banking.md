@@ -1,6 +1,6 @@
 ---
 avatar_id: "fsi-banking-card-management"
-avatar_name: "Dana — The FSI Banking Card Servicing Strategist"
+avatar_name: "Leo — The FSI Banking Card Servicing Strategist"
 industry: "Financial Services (Banking)"
 initiative_name: "Card Management — Lock/Unlock, Replace, Deactivate Consolidation"
 jira_keys: ["TDI-16600", "CREQ-6064", "CREQ-7588", "CREQ-7484"]

@@ -1,6 +1,6 @@
 ---
 avatar_id: "utilities-cx-architect"
-avatar_name: "Selva — The Energy & Utilities CX Architect"
+avatar_name: "Felix — The Energy & Utilities CX Architect"
 industry: "Utilities (Electric, Gas, Water & Municipal Services)"
 initiative_name: "Utilities Workspace — Outage Triage, Meter Billing & Service Turn-On/Off"
 jira_keys: ["UTIL-WORKSPACE-01", "UTIL-OUTAGE-02", "UTIL-BILLING-03"]
